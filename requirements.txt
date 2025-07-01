@@ -9,7 +9,4 @@ openpyxl
 shap
 llvmlite
 numba
-numpy==1.23.5
-llvmlite==0.39.1
-numba==0.56.4
-shap==0.41.0
+
