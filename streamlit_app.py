@@ -143,7 +143,7 @@ class AppUI:
 
     def run(self):
         """Chạy toàn bộ ứng dụng Streamlit."""
-        st.title("🤖 Ứng dụng Hỗ trợ Quyết định Tín dụng")
+        st.title("🤖 DỰ ĐOÁN KHẢ NĂNG TRẢ NỢ")
         
         data_option, df_manual, uploaded_file = self._render_sidebar()
         
