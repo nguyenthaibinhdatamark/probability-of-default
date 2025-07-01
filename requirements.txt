@@ -1,5 +1,8 @@
 streamlit
-plotly
-pytz
+pandas
+numpy
 matplotlib
+seaborn
+scikit-learn
 xgboost
+openpyxl
